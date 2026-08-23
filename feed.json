@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Venice4Palestine",
+    "description": "",
+    "home_page_url": "https://venice4palestine.org",
+    "feed_url": "https://venice4palestine.org/feed.json",
+    "user_comment": "",
+    "icon": "https://venice4palestine.org/media/website/V4P_logo_transparent.png",
+    "author": {
+        "name": "V4P"
+    },
+    "items": [
+    ]
+}
