@@ -3,10 +3,35 @@
     <title>Venice4Palestine</title>
     <link href="https://venice4palestine.org/feed.xml" rel="self" />
     <link href="https://venice4palestine.org" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2026-08-24T15:46:04+02:00</updated>
     <author>
         <name>V4P</name>
     </author>
     <id>https://venice4palestine.org</id>
 
+    <entry>
+        <title>Intervento di Omar Barghouti a Zero Complicity</title>
+        <author>
+            <name>V4P</name>
+        </author>
+        <link href="https://venice4palestine.org/intervento-di-omar-barghouti-a-zero-complicity/"/>
+        <id>https://venice4palestine.org/intervento-di-omar-barghouti-a-zero-complicity/</id>
+        <media:content url="https://venice4palestine.org/media/posts/10/O_Barghouti.png" medium="image" />
+            <category term="video"/>
+
+        <updated>2026-08-24T15:35:41+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://venice4palestine.org/media/posts/10/O_Barghouti.png" class="type:primaryImage" alt="" /></p>
+                <div><div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe loading="lazy" data-responsive="false" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Xu00nXquBsU?si=nrsM51JCd8SgEiW2" title="Video" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></div>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
